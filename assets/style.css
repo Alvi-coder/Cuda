@@ -1,0 +1,611 @@
+header{
+    width: 100%;
+    float: left;
+    background-color: purple;
+    padding: 25px 0px;
+        padding-bottom: 50px;
+}
+.container{
+    width: 1140px;
+    margin: 0px auto;
+}
+.img{
+    width: 30%;
+    float: left;
+   
+}
+.menu{
+    width: 70%;
+    float: left;
+}
+.menu ul{
+    list-style: none;
+}
+.menu ul li{
+        display: inline-block;
+    font-size: 22px;
+    margin: -4px 35px;
+    color: white;
+    font-weight: bold;
+}
+.dishi{
+    width: 100%;
+    float: left;
+}
+.dishi p{
+    text-align: center;
+    font-size: 25px;
+    margin: 50px 310px;
+    font-weight: bold;
+    color: white;
+}
+.dishib{
+        margin: 0px auto;
+    display: block;
+    padding: 5px 23px;
+    background-color: coral;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: -15px;
+}
+.aboutsection{
+    width: 100%;
+    float: left;
+    background-color: aquamarine;
+    padding: 25px 0px;
+}
+.container{
+    width: 1140px;
+    margin: 0px auto;
+}
+
+.service{
+    text-align: center;
+}
+.service h3{
+    font-size: 30px;
+    margin: 12px auto;
+}
+.service span{
+    border-bottom: 2px solid black;
+    width: 7%;
+    margin: 0px auto;
+    display: block;
+}
+.service h6{
+        font-size: 15px;
+    margin: 15px 300px;
+}
+
+.aboutimg{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.aboutimg h3{
+        font-size: 24px;
+    color: white;
+        margin: 9px auto;
+}
+.aboutimg p{
+        font-size: 18px;
+    margin: 0px 11px;
+    color: white;
+}
+.aboutpen{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+
+.aboutpen h3{
+         font-size: 24px;
+    color: white;
+        margin: 9px auto;
+    
+}
+.aboutpen p{
+         font-size: 18px;
+    margin: 0px 11px;
+    color: white;
+}
+.aboutscrew{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.aboutscrew h3{
+      font-size: 24px;
+    color: white;
+        margin: 9px auto;
+}
+.aboutscrew p{
+     font-size: 18px;
+    margin: 0px 11px;
+    color: white;
+}
+.aboutrocket{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.aboutrocket h3{
+     font-size: 24px;
+    color: white;
+        margin: 9px auto;
+}
+.aboutrocket p{
+    font-size: 18px;
+    margin: 0px 11px;
+    color: white;
+}
+
+
+.meetteam{
+    width: 100%;
+    float: left;
+    padding: 25px 0px;
+    background-color: darkgray;
+}
+.container{
+    
+}
+.team{
+   text-align: center;
+}
+.team h3{
+       font-size: 30px;
+    margin: 12px auto;
+}
+.team span{
+       border-bottom: 2px solid black;
+    width: 7%;
+    margin: 0px auto;
+    display: block;
+}
+.team h6{
+      font-size: 15px;
+    margin: 15px 300px;
+}
+
+.oldimg{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.oldman{
+    width: 70%;
+        margin: 25px 0px;
+}
+.oldimg h3{
+        font-size: 25px;
+    margin: 0px auto;
+}
+.oldimg h6{
+    font-size: 18px;
+    margin: 0px auto;
+    color: blueviolet;
+}
+.oldimg p{
+    font-size: 20px;
+}
+
+.oldimg nav{
+        text-align: left;
+}
+.oldimg nav ul{
+    
+}
+.oldimg nav ul li{
+        list-style: none;
+       
+    display: inline-block;
+    margin: 0px 8px;
+    padding: 6px 10px;
+    background-color: gray;
+    border-radius: 45%;
+    color: white;
+}
+.oldimg nav ul li a{
+    color: white;
+}
+
+.oldimgtwo{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.oldmantwopic{
+    width: 70%;
+     margin: 25px 0px;
+    
+}
+.oldimgtwo h3{
+       font-size: 25px;
+    margin: 0px auto;
+}
+.oldimgtwo h6{
+       font-size: 18px;
+    margin: 0px auto;
+    color: blueviolet;
+}
+.oldimgtwo p{
+      font-size: 20px;
+ 
+}
+.oldimgtwo nav{
+     text-align: left;
+}
+.oldimgtwo nav ul{
+    
+}
+.oldimgtwo nav ul li{
+      list-style: none;
+       
+    display: inline-block;
+    margin: 0px 8px;
+    padding: 6px 10px;
+    background-color: gray;
+    border-radius: 45%;
+    color: white;
+}
+.oldimgtwo nav ul li a{
+    color: white;
+}
+.man{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.manimg{
+    width: 70%;
+    margin: 25px;
+}
+.man h3{
+        font-size: 25px;
+    margin: 0px auto;
+}
+.man h6{
+      font-size: 18px;
+    margin: 0px auto;
+    color: blueviolet;
+}
+.man p{
+     font-size: 20px;
+}
+.man nav{
+     text-align: left;
+}
+.man nav ul{
+    
+}
+.man nav ul li{
+       list-style: none;
+       
+    display: inline-block;
+    margin: 0px 8px;
+    padding: 6px 10px;
+    background-color: gray;
+    border-radius: 45%;
+    color: white;
+}
+.man nav ul li a{
+     color: white;
+}
+.lady{
+      width: 25%;
+    float: left;
+    text-align: center;
+}
+.ladyimg{
+     width: 70%;
+    margin: 25px;
+}
+.lady h3{
+        font-size: 25px;
+    margin: 0px auto;
+}
+.lady h6{
+      font-size: 18px;
+    margin: 0px auto;
+    color: blueviolet;
+}
+.lady p{
+        font-size: 20px;
+}
+.lady nav{
+      text-align: left;
+}
+.lady nav ul{
+    
+}
+.lady nav ul li{
+     list-style: none;
+       
+    display: inline-block;
+    margin: 0px 8px;
+    padding: 6px 10px;
+    background-color: gray;
+    border-radius: 45%;
+    color: white;
+}
+.lady nav ul li a{
+    color: white;
+}
+.percent{
+ width: 100%;
+    float: left;
+    padding: 25px 0px;
+    background-color: azure;
+}
+.skill{
+ text-align: center;
+}
+.skill h3{
+    font-size: 30px;
+    margin: 12px auto;
+}
+.skill span{
+        border-bottom: 2px solid black;
+    width: 9%;
+    margin: 0px auto;
+    display: block;
+}
+.skill h6{
+        font-size: 15px;
+    margin: 15px 300px;
+}
+.pink{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.pink h6{
+    font-size: 18px;
+    margin: 10px auto;
+}
+
+
+.container{
+    
+}
+.folio h3{
+        font-size: 25px;
+    margin: 12px auto;
+}
+.folio span{
+       border-bottom: 2px solid black;
+    width: 9%;
+    margin: 0px auto;
+    display: block;
+} 
+.folio h6{
+       font-size: 15px;
+    margin: 15px 300px;
+}
+.laptop{
+    width: 100%;
+    float: left;
+    background-color: bisque;
+    padding: 25px 0px;
+}
+.ablaptop{
+    text-align: center;
+}
+.ablaptop h2{
+    font-size: 30px;
+    margin: 12px auto;
+    
+}
+.ablaptop span{
+        border-bottom: 2px solid black;
+    width: 9%;
+    margin: 0px auto;
+    display: block;
+}
+.ablaptop p{
+          font-size: 16px;
+    margin: 15px 300px;
+    font-weight: bold;
+}
+.laptopborder{
+    width: 100%;
+}
+
+.laptopborder ul{
+    list-style: none;
+        margin: 10px 0px;
+}
+.laptopborder ul li{
+        display: inline-block;
+    margin: 1px 10px;
+    background-color: darkgrey;
+    padding: 4px 5px;
+    color: white;
+}
+
+
+
+.laptopii{
+    width: 50%;
+    float: left;
+}
+
+.laptopii h5{
+    font-size: 17px;
+    text-align: center;
+}
+
+.lpe{
+    width: 50%;
+    float: left;
+}
+.lpe h5{
+    font-size: 17px;
+    text-align: center;
+}
+.laptopbutton{
+   margin: 0px auto;
+    display: block;
+    padding: 5px 23px;
+    background-color: aqua;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: -15px;
+}
+.aboutus{
+    width: 100%;
+    float: left;
+    padding: 25px 0px;
+    background-color: hotpink;
+}
+.container{
+    
+}
+.us{
+   text-align: center;
+    
+}
+.us h3{
+        font-size: 30px;
+    margin: 12px auto;
+    color: white
+}
+.us span{
+        border-bottom: 2px solid black;
+    width: 9%;
+    margin: 0px auto;
+    display: block;
+}
+.us h6{
+        font-size: 18px;
+    margin: 15px 300px;
+    color: white;
+}
+
+.oooldman{
+    width: 50%;
+    float: left;}
+.ooldmanpic{
+    width: 25%;
+}
+.oooldman h6{
+  margin: -78px 165px 0px;
+    color: white;
+    font-size: 11px;
+    font-style: italic;
+}
+.oooldman h4{
+   margin: 10px 165px 0px;
+    color: white;
+}
+.oooldman h5{
+        margin: 3px 167px 0px;
+    font-size: 9px;
+    color: yellow;
+}
+.oooldmantwo{
+    width: 50%;
+    float: left;
+        
+}
+.ooldmanpic{
+    width: 25%;
+    margin: 5px;
+}
+.oooldmantwo h6{
+   margin: -78px 165px 0px;
+    color: white;
+    font-size: 11px;
+    font-style: italic;
+}
+.oooldmantwo h4{
+    margin: 10px 165px 0px;
+    color: white;
+}
+.oooldmantwo h5{
+     margin: 3px 167px 0px;
+    font-size: 9px;
+    color: yellow;
+}
+.touch{
+    width: 100%;
+    float: left;
+    padding: 25px 0px;
+    background-color: cornflowerblue;
+}
+.get{
+    text-align: center;
+}
+
+.get h3{
+        font-size: 30px;
+    margin: 12px auto;
+    color: white;
+}
+.get span{
+        border-bottom: 2px solid black;
+    margin: 0px auto;
+    display: block;
+    width: 9%;
+}
+.get h5{
+    font-size: 18px;
+    margin: 15px 252px;
+    color: white;
+}
+.textbox{
+           padding-right: 125px;
+    background-color: 0D3252;
+    border: none;
+    font-size: 14px;
+}
+.emailbox{
+           padding-right: 125px;
+    background-color: 0D3252;
+    border: none;
+    font-size: 14px;
+}
+.areabox{
+        padding-right: 439px;
+    padding-bottom: 90px;
+    margin: 10px;
+    background-color: 0d3252;
+    font-size: 13px;
+}
+.me{
+    margin: 0px auto;
+    display: block;
+    padding: 5px 23px;
+    background-color: aqua;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: -15px;
+}
+.fo{
+    width: 100%;
+    float: left;
+    background-color: dodgerblue;
+}
+.fo ul{
+    list-style: none;
+}
+.fo ul li{
+        display: inline-block;
+    margin: 0px 59px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+.fo ul li a{
+    
+}
+
+
+
+
+
+
+
